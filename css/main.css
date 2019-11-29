@@ -14,6 +14,7 @@ body{
 }
 
 p{
+  width: 100%;
   padding:0;
   padding-left: 2%;
   padding-right: 2%;
@@ -32,6 +33,7 @@ p{
     background-color: #f7ffb3;
   }
   p{
+    width: 100%;
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
@@ -53,6 +55,7 @@ p{
     background-color: #f7ffb3;
   }
   p{
+    width: 100%;
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
@@ -78,6 +81,7 @@ p{
     background-color: #b3e5ff;
   }
   p{
+    width: 100%;
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
@@ -99,6 +103,7 @@ p{
     background-color: #d0c7ff;
   }
   p{
+    width: 100%;
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
