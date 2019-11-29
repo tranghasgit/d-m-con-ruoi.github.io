@@ -1,0 +1,89 @@
+/* FOR MOBILE */
+/* MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE
+MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE */
+body{
+  background-color: #000;
+  color: #000;
+  font-size: 5em;
+  line-height:1.2em;
+}
+
+.container{
+  width: 95%;
+  background-color: #d0c7ff;
+}
+
+p{
+  padding:0;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin:0;
+  border:1px solid #000;
+}
+
+
+/* PHAMLET */
+@media (min-width: 550px) {
+  body{
+    background-color: #5d8f00;
+    color: #5d8f00;
+    font-size: 6.5em;
+  }
+  .container{
+    min-width: 95%;
+    background-color: #f7ffb3;
+  }
+  p{
+    padding:0;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin:0;
+    border:1px solid #5d8f00;
+  }
+}
+
+
+
+
+/* FOR LAPTOP */
+/* FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN
+  FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN FOR SCREEN */
+@media (min-width: 750px) {
+  body{
+    background-color: #995d00;
+    color: #995d00;
+    font-size: 8.5em;
+  }
+  .container{
+    min-width: 95%;
+    background-color: #b3e5ff;
+  }
+  p{
+    padding:0;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin:0;
+    border:1px solid #995d00;
+  }
+}
+
+
+/* DESKTOP */
+@media (min-width: 1000px) {
+  body{
+    background-color: #0077ff;
+    color: #0077ff;
+    font-size: 10em;
+  }
+  .container{
+    min-width: 95%;
+    background-color: #d0c7ff;
+  }
+  p{
+    padding:0;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin:0;
+    border:1px solid #0077ff;
+  }
+}
