@@ -21,6 +21,25 @@ p{
   border:1px solid #000;
 }
 
+@media (min-width: 400px) {
+  body{
+    background-color: #5d8f00;
+    color: #5d8f00;
+    font-size: 6.5em;
+  }
+  .container{
+    min-width: 95%;
+    background-color: #f7ffb3;
+  }
+  p{
+    padding:0;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin:0;
+    border:1px solid #5d8f00;
+  }
+}
+
 
 /* PHAMLET */
 @media (min-width: 550px) {
