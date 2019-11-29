@@ -14,14 +14,14 @@ body{
 }
 
 p{
-  width: 100%;
+  /* width: 100%; */
   padding:0;
   padding-left: 2%;
   padding-right: 2%;
   margin:0;
-  border:1px solid #000;
+  border-bottom:1px solid #000;
 }
-
+/*
 @media (min-width: 400px) {
   body{
     background-color: #000;
@@ -43,7 +43,7 @@ p{
     margin:0;
     border:1px solid #000;
   }
-}
+} */
 
 
 /* PHAMLET */
@@ -58,7 +58,7 @@ p{
     background-color: #f7ffb3;
   }
   p{
-    width: 100%;
+    /* width: 100%; */
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
@@ -84,7 +84,7 @@ p{
     background-color: #b3e5ff;
   }
   p{
-    width: 100%;
+    /* width: 100%; */
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
@@ -106,7 +106,7 @@ p{
     background-color: #d0c7ff;
   }
   p{
-    width: 100%;
+    /* width: 100%; */
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
