@@ -24,21 +24,24 @@ p{
 
 @media (min-width: 400px) {
   body{
-    background-color: #5d8f00;
-    color: #5d8f00;
-    font-size: 6.5em;
-  }
+    background-color: #000;
+    color: #000;
+    font-size: 5em;
+    line-height:1.2em;
+    font-family: 'Roboto', sans-serif;}
+
   .container{
     min-width: 95%;
-    background-color: #f7ffb3;
+    background-color: #d0c7ff;
   }
+
   p{
     width: 100%;
     padding:0;
     padding-left: 2%;
     padding-right: 2%;
     margin:0;
-    border:1px solid #5d8f00;
+    border:1px solid #000;
   }
 }
 
